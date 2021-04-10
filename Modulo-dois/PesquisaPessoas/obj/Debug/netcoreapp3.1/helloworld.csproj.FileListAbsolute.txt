@@ -1,0 +1,13 @@
+D:\Programação\.net-back-end\modulo2\helloworld\bin\Debug\netcoreapp3.1\helloworld.exe
+D:\Programação\.net-back-end\modulo2\helloworld\bin\Debug\netcoreapp3.1\helloworld.deps.json
+D:\Programação\.net-back-end\modulo2\helloworld\bin\Debug\netcoreapp3.1\helloworld.runtimeconfig.json
+D:\Programação\.net-back-end\modulo2\helloworld\bin\Debug\netcoreapp3.1\helloworld.runtimeconfig.dev.json
+D:\Programação\.net-back-end\modulo2\helloworld\bin\Debug\netcoreapp3.1\helloworld.dll
+D:\Programação\.net-back-end\modulo2\helloworld\bin\Debug\netcoreapp3.1\helloworld.pdb
+D:\Programação\.net-back-end\modulo2\helloworld\obj\Debug\netcoreapp3.1\helloworld.csprojAssemblyReference.cache
+D:\Programação\.net-back-end\modulo2\helloworld\obj\Debug\netcoreapp3.1\helloworld.AssemblyInfoInputs.cache
+D:\Programação\.net-back-end\modulo2\helloworld\obj\Debug\netcoreapp3.1\helloworld.AssemblyInfo.cs
+D:\Programação\.net-back-end\modulo2\helloworld\obj\Debug\netcoreapp3.1\helloworld.csproj.CoreCompileInputs.cache
+D:\Programação\.net-back-end\modulo2\helloworld\obj\Debug\netcoreapp3.1\helloworld.dll
+D:\Programação\.net-back-end\modulo2\helloworld\obj\Debug\netcoreapp3.1\helloworld.pdb
+D:\Programação\.net-back-end\modulo2\helloworld\obj\Debug\netcoreapp3.1\helloworld.genruntimeconfig.cache
