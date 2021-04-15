@@ -1,0 +1,16 @@
+C:\Users\Diego\source\repos\Animais\bin\Debug\net5.0\Animais.exe
+C:\Users\Diego\source\repos\Animais\bin\Debug\net5.0\Animais.deps.json
+C:\Users\Diego\source\repos\Animais\bin\Debug\net5.0\Animais.runtimeconfig.json
+C:\Users\Diego\source\repos\Animais\bin\Debug\net5.0\Animais.runtimeconfig.dev.json
+C:\Users\Diego\source\repos\Animais\bin\Debug\net5.0\Animais.dll
+C:\Users\Diego\source\repos\Animais\bin\Debug\net5.0\ref\Animais.dll
+C:\Users\Diego\source\repos\Animais\bin\Debug\net5.0\Animais.pdb
+C:\Users\Diego\source\repos\Animais\obj\Debug\net5.0\Animais.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\Animais\obj\Debug\net5.0\Animais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\source\repos\Animais\obj\Debug\net5.0\Animais.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\Animais\obj\Debug\net5.0\Animais.AssemblyInfo.cs
+C:\Users\Diego\source\repos\Animais\obj\Debug\net5.0\Animais.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\Animais\obj\Debug\net5.0\Animais.dll
+C:\Users\Diego\source\repos\Animais\obj\Debug\net5.0\ref\Animais.dll
+C:\Users\Diego\source\repos\Animais\obj\Debug\net5.0\Animais.pdb
+C:\Users\Diego\source\repos\Animais\obj\Debug\net5.0\Animais.genruntimeconfig.cache
