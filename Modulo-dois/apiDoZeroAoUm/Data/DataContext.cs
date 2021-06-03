@@ -9,11 +9,14 @@ namespace apiDoZeroAoUm.Data
 {
     public class DataContext : DbContext
     {
+        internal object Profissional;
+
         public DataContext(DbContextOptions<DataContext> options) : base(options)
         {
 
         }
 
         public DbSet<Pessoa> Pessoas { get; set; }
+        public DbSet<Profissional> Profissionais { get; set; }
     }
 }

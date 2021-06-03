@@ -11,23 +11,32 @@ namespace apiDoZeroAoUm.Controllers
 {
  
     [ApiController]
-    [Route("v1/pessoas")] //Mesma função do RequestMapping("/v1/pessoas")
+    [Route("v1/pessoas")] 
     public class PessoaController : ControllerBase
     {
         [HttpPost]
         [Route("")]
         public async Task<ActionResult<Pessoa>> Insert([FromServices] DataContext context, [FromBody] Pessoa model)
         {
-            if (ModelState.IsValid)
+            try
             {
-                context.Pessoas.Add(model);
-                await context.SaveChangesAsync();
-                return Ok(model);
-            }
-            else
+                if (ModelState.IsValid)
+                {
+                    context.Pessoas.Add(model);
+                    await context.SaveChangesAsync();
+                    return Ok(model);
+                }
+                else
+                {
+                    throw new Exception("Não foi possivel inserir os Dados!");
+
+                }
+            }catch (Exception e)
             {
+                BadRequest(e.Message);
                 return BadRequest(ModelState);
             }
+         
         }
 
         [HttpGet]
@@ -78,6 +87,7 @@ namespace apiDoZeroAoUm.Controllers
         [Route("{id:int}")]
         public async Task<ActionResult<Pessoa>> Delete([FromServices] DataContext context, int id)
         {
+
             var pessoa = await context.Pessoas.FirstOrDefaultAsync(pessoa => pessoa.Id == id);
 
             if (pessoa != null)
