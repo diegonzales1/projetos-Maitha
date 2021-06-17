@@ -1,7 +1,6 @@
 # projetos-Maitha
 Projetos criados durante o curso de .NET back-end. Do Zero ao Um
 
- 
 
 [Pesquisa Pessoa](https://github.com/diegonzales1/projetos-Maitha/tree/main/Modulo-dois/PesquisaPessoas) 
 
