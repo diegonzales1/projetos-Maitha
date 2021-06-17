@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programação\\.net-back-end\\modulo4\\ApiBanco\\ApiBanco.csproj": {}
+    "D:\\Programação\\Repositórios\\projetos-Maitha\\Modulo-dois\\ApiBanco\\ApiBanco.csproj": {}
   },
   "projects": {
-    "D:\\Programação\\.net-back-end\\modulo4\\ApiBanco\\ApiBanco.csproj": {
+    "D:\\Programação\\Repositórios\\projetos-Maitha\\Modulo-dois\\ApiBanco\\ApiBanco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programação\\.net-back-end\\modulo4\\ApiBanco\\ApiBanco.csproj",
+        "projectUniqueName": "D:\\Programação\\Repositórios\\projetos-Maitha\\Modulo-dois\\ApiBanco\\ApiBanco.csproj",
         "projectName": "ApiBanco",
-        "projectPath": "D:\\Programação\\.net-back-end\\modulo4\\ApiBanco\\ApiBanco.csproj",
+        "projectPath": "D:\\Programação\\Repositórios\\projetos-Maitha\\Modulo-dois\\ApiBanco\\ApiBanco.csproj",
         "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-        "outputPath": "D:\\Programação\\.net-back-end\\modulo4\\ApiBanco\\obj\\",
+        "outputPath": "D:\\Programação\\Repositórios\\projetos-Maitha\\Modulo-dois\\ApiBanco\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
