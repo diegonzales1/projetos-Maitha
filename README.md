@@ -8,6 +8,5 @@ Projetos criados durante o curso de .NET back-end. Do Zero ao Um
 
 [Animais](https://github.com/diegonzales1/projetos-Maitha/tree/main/Modulo-dois/Animais) 
 
-[API Do Zero ao Um](https://github.com/diegonzales1/projetos-Maitha/tree/main/Modulo-dois/apiDoZeroAoUm) 
+[API Do Zero ao Um](https://github.com/diegonzales1/projetos-Maitha/tree/main/Modulo-tres/apiDoZeroAoUm) 
 
-[API Bank](https://github.com/diegonzales1/projetos-Maitha/tree/main/Modulo-dois/ApiBanco)
