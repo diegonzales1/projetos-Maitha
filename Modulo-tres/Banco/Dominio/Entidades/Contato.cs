@@ -8,8 +8,10 @@ namespace Dominio.Entidades
     {
         public int Id { get; set; }
         public int ClienteId { get; set; }
-        public virtual Cliente Cliente { get; set; }
+        public virtual Cliente Cliente{ get; set; }
         public string TipoContato { get; set; }
         public string Telefone { get; set; }
+
+
     }
 }

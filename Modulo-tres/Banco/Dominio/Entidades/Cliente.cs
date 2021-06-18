@@ -8,8 +8,9 @@ namespace Dominio.Entidades
     {
         public int Id { get; set; }
         public string Nome { get; set; }
-        public string email { get; set; }
-        public int CPFCNPJ { get; set; }
+        public string Email { get; set; }
+        public string CPFCNPJ { get; set; }
         public virtual List<Contato> Contatos { get; set; }
+
     }
 }
