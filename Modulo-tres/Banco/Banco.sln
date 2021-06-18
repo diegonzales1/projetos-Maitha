@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoApi", "BancoApi\BancoApi.csproj", "{F777EE73-71E7-4BC2-A27C-9A9BFC1CEFF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{3F35D7A4-1527-45CC-83CF-72063D77556B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F777EE73-71E7-4BC2-A27C-9A9BFC1CEFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F777EE73-71E7-4BC2-A27C-9A9BFC1CEFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F777EE73-71E7-4BC2-A27C-9A9BFC1CEFF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F35D7A4-1527-45CC-83CF-72063D77556B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F35D7A4-1527-45CC-83CF-72063D77556B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F35D7A4-1527-45CC-83CF-72063D77556B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F35D7A4-1527-45CC-83CF-72063D77556B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
