@@ -1,23 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a+x8wD5W96OjYgroRVYnh6QH/Nd4lK1Wvk7uolIWsL7ZF+KLhxBA+3atjrz3zqArVCBGeHYQwkbHkR/B4nhUXQ==",
+  "dgSpecHash": "YSnfgpmI7+of5Qx+mpLhVDVyAhpEap0pZCocXa7TCzKaa7WCDgqxhQvlJySBs5qjg1ccS42rjmrBMz7r5eiR7w==",
   "success": true,
   "projectFilePath": "D:\\Programação\\Repositórios\\projetos-Maitha\\Modulo-tres\\Banco\\Dominio\\Dominio.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.12\\microsoft.aspnetcore.authorization.3.1.12.nupkg.sha512",
-    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.12\\microsoft.aspnetcore.components.3.1.12.nupkg.sha512",
-    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\3.1.12\\microsoft.aspnetcore.components.analyzers.3.1.12.nupkg.sha512",
-    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\3.1.12\\microsoft.aspnetcore.components.forms.3.1.12.nupkg.sha512",
-    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.aspnetcore.components.web\\3.1.12\\microsoft.aspnetcore.components.web.3.1.12.nupkg.sha512",
-    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.aspnetcore.metadata\\3.1.12\\microsoft.aspnetcore.metadata.3.1.12.nupkg.sha512",
-    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.12\\microsoft.extensions.dependencyinjection.3.1.12.nupkg.sha512",
-    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.12\\microsoft.extensions.dependencyinjection.abstractions.3.1.12.nupkg.sha512",
-    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.12\\microsoft.extensions.logging.abstractions.3.1.12.nupkg.sha512",
-    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.extensions.options\\3.1.12\\microsoft.extensions.options.3.1.12.nupkg.sha512",
-    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.12\\microsoft.extensions.primitives.3.1.12.nupkg.sha512",
-    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.jsinterop\\3.1.12\\microsoft.jsinterop.3.1.12.nupkg.sha512",
-    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Diego\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
