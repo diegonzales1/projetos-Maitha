@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace Dominio.Entidades
 {
@@ -10,6 +8,5 @@ namespace Dominio.Entidades
         public string Email { get; set; }
         public string CPFCNPJ { get; set; }
         public virtual List<Contato> Contatos { get; set; }
-
     }
 }

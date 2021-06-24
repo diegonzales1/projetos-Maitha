@@ -6,7 +6,6 @@ D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\bin\De
 D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\bin\Debug\netcoreapp3.1\BancoApi.runtimeconfig.dev.json
 D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\bin\Debug\netcoreapp3.1\BancoApi.dll
 D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\bin\Debug\netcoreapp3.1\BancoApi.pdb
-D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.csprojAssemblyReference.cache
 D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.AssemblyInfoInputs.cache
 D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.AssemblyInfo.cs
 D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.csproj.CoreCompileInputs.cache
@@ -18,3 +17,4 @@ D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\De
 D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.dll
 D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.pdb
 D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.genruntimeconfig.cache
+D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.csproj.AssemblyReference.cache
