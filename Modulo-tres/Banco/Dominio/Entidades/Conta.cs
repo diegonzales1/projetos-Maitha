@@ -4,9 +4,8 @@ using System.Text;
 
 namespace Dominio.Entidades
 {
-    public class Conta
+    public class Conta : Base
     {
-        public int Id { get; set; }
         public string ClienteId { get; set; }
         public virtual Cliente Cliente { get; set; }
         public int AgenciaId { get; set; }
