@@ -1,12 +1,13 @@
 ﻿using Dominio.Entidades;
 using Dominio.Interfaces;
+using Repositorio.Contexto;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Repositorio.Repositorios
 {
-    class AgenciaRepositorio : BaseRepositorio<Agencia>, IAgenciaRepositorio
+    public class AgenciaRepositorio : BaseRepositorio<Agencia>, IAgenciaRepositorio
     {
         public AgenciaRepositorio(BancoContexto bancoContexto) : base(bancoContexto) { }
     }

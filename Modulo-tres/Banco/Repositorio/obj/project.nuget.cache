@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GSGFoVsi7X/ENCVkf8I9xkrcdm+3I/ETsNHAGXrqFUw8zi/utKSFkZtTHjMK4X+py+YIErz30AqOMvXaPiTs1A==",
+  "dgSpecHash": "42a1LAjwNUeR+iOjF1a8yfIEA4E7aR/dZnDn9cN7Y/EG5BK2kTUnW24dUMEhaMKkZ1YcztLqCF1nSj2B3h3leQ==",
   "success": true,
-  "projectFilePath": "D:\\Programação\\Repositórios\\projetos-Maitha\\Modulo-tres\\Banco\\Repositorio\\Repositorio.csproj",
+  "projectFilePath": "C:\\Users\\Diego\\Desktop\\Nova pasta\\Maitha\\Banco\\Repositorio\\Repositorio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diego\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Diego\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

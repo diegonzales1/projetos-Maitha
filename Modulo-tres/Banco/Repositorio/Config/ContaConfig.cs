@@ -9,7 +9,6 @@ namespace Repositorio.Config
 {
     public class ContaConfig : IEntityTypeConfiguration<Conta>
     {
-
         public void Configure(EntityTypeBuilder<Conta> builder)
         {
             builder.HasKey(c => c.Id);
@@ -18,8 +17,8 @@ namespace Repositorio.Config
             builder.Property(c => c.ClienteId).IsRequired();
             builder.Property(c => c.AgenciaId).IsRequired();
             builder.Property(c => c.Tipo).IsRequired();
-            builder.Property(c => c.NRContra).IsRequired();
-            builder.Property(c => c.Saldo).IsRequired();
+            builder.Property(c => c.NRConta).IsRequired();
+            builder.Property(c => c.Saldos).IsRequired();
         }
     }
 }

@@ -1,11 +1,11 @@
 ﻿using Dominio.Entidades;
 using Microsoft.EntityFrameworkCore;
 
-namespace Repositorio
+namespace Repositorio.Contexto
 {
     public class BancoContexto : DbContext
     {
-        
+
         DbSet<Cliente> Clientes { get; set; }
         DbSet<Contato> Contatos { get; set; }
         DbSet<Agencia> Agencias { get; set; }

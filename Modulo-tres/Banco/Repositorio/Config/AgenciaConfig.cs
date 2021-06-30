@@ -6,10 +6,8 @@ namespace Repositorio.Config
 {
     public class AgenciaConfig : IEntityTypeConfiguration<Agencia>
     {
-
         public void Configure(EntityTypeBuilder<Agencia> builder)
         {
-
             builder.HasKey(a => a.Id);
 
             // Não permite campo vazio

@@ -9,7 +9,6 @@ namespace Repositorio.Config
 {
     public class ClienteConfig : IEntityTypeConfiguration<Cliente>
     {
-
         public void Configure(EntityTypeBuilder<Cliente> builder)
         {
             builder.HasKey(c => c.Id);
@@ -21,6 +20,7 @@ namespace Repositorio.Config
 
             // Muitos para um 
             builder.HasMany(c => c.Contatos).WithOne(c => c.Cliente);
+
         }
     }
 }

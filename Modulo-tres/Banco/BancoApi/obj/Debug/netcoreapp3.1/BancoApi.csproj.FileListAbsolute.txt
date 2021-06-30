@@ -1,20 +1,67 @@
-D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\bin\Debug\netcoreapp3.1\BancoApi.exe
-D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\bin\Debug\netcoreapp3.1\BancoApi.deps.json
-D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\bin\Debug\netcoreapp3.1\BancoApi.runtimeconfig.json
-D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\bin\Debug\netcoreapp3.1\BancoApi.runtimeconfig.dev.json
-D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\bin\Debug\netcoreapp3.1\BancoApi.dll
-D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\bin\Debug\netcoreapp3.1\BancoApi.pdb
-D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.AssemblyInfoInputs.cache
-D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.AssemblyInfo.cs
-D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.csproj.CoreCompileInputs.cache
-D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.MvcApplicationPartsAssemblyInfo.cache
-D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\Debug\netcoreapp3.1\staticwebassets\BancoApi.StaticWebAssets.Manifest.cache
-D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\Debug\netcoreapp3.1\staticwebassets\BancoApi.StaticWebAssets.xml
-D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\BancoApi.styles.css
-D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.RazorTargetAssemblyInfo.cache
-D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.dll
-D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.pdb
-D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.genruntimeconfig.cache
-D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\BancoApi.exe
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\BancoApi.deps.json
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\BancoApi.runtimeconfig.json
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\BancoApi.runtimeconfig.dev.json
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\BancoApi.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\BancoApi.pdb
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.AssemblyInfo.cs
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\obj\Debug\netcoreapp3.1\staticwebassets\BancoApi.StaticWebAssets.Manifest.cache
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\obj\Debug\netcoreapp3.1\staticwebassets\BancoApi.StaticWebAssets.xml
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\BancoApi.styles.css
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.RazorTargetAssemblyInfo.cache
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.pdb
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.genruntimeconfig.cache
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.csproj.CopyComplete
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Repositorio.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Repositorio.pdb
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Dominio.pdb

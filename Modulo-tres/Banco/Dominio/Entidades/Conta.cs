@@ -6,13 +6,13 @@ namespace Dominio.Entidades
 {
     public class Conta : Base
     {
-        public string ClienteId { get; set; }
+        public int ClienteId { get; set; }
         public virtual Cliente Cliente { get; set; }
         public int AgenciaId { get; set; }
         public virtual Agencia Agencia { get; set; }
         public string Tipo { get; set; }
-        public int NRContra { get; set; }
-        public Decimal Saldo { get; set; }
+        public int NRConta { get; set; }
+        public decimal Saldos { get; set; }
 
     }
 }
