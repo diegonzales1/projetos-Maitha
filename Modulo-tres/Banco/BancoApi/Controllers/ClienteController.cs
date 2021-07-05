@@ -1,8 +1,7 @@
-﻿using Dominio.Interfaces;
+﻿using Dominio.Entidades;
+using Dominio.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -13,7 +12,6 @@ namespace BancoApi.Controllers
     [ApiController]
     public class ClienteController : ControllerBase
     {
-
         private readonly IClienteRepositorio _clienteRepository;
 
         public ClienteController(IClienteRepositorio cliente)
@@ -37,17 +35,26 @@ namespace BancoApi.Controllers
                 {
                     return Ok(_clienteRepository.ObterTodos());
                 }
-            }catch (Exception ex)
+            }
+            catch (Exception ex)
             {
                 return BadRequest(ex.ToString());
             }
-          
         }
 
         // POST api/<ClienteController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public async Task<IActionResult> Post([FromBody] Cliente cliente)
         {
+            try
+            {
+                _clienteRepository.Adicionar(cliente);
+                return Ok(cliente);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.ToString());
+            }
         }
 
         // PUT api/<ClienteController>/5
