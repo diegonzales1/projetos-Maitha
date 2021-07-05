@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Diego\\Desktop\\Nova pasta\\Maitha\\Banco\\Dominio\\Dominio.csproj": {}
+    "D:\\Programação\\Repositórios\\projetos-Maitha\\Modulo-tres\\Banco\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Diego\\Desktop\\Nova pasta\\Maitha\\Banco\\Dominio\\Dominio.csproj": {
+    "D:\\Programação\\Repositórios\\projetos-Maitha\\Modulo-tres\\Banco\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diego\\Desktop\\Nova pasta\\Maitha\\Banco\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "D:\\Programação\\Repositórios\\projetos-Maitha\\Modulo-tres\\Banco\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\Diego\\Desktop\\Nova pasta\\Maitha\\Banco\\Dominio\\Dominio.csproj",
+        "projectPath": "D:\\Programação\\Repositórios\\projetos-Maitha\\Modulo-tres\\Banco\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diego\\Desktop\\Nova pasta\\Maitha\\Banco\\Dominio\\obj\\",
+        "outputPath": "D:\\Programação\\Repositórios\\projetos-Maitha\\Modulo-tres\\Banco\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

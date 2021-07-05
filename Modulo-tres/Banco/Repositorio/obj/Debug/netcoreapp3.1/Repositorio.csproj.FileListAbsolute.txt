@@ -13,3 +13,18 @@ C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\Repositorio\obj\De
 C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.dll
 C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.pdb
 C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.genruntimeconfig.cache
+D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.deps.json
+D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.runtimeconfig.json
+D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.runtimeconfig.dev.json
+D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.dll
+D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.pdb
+D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\Repositorio\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\Repositorio\bin\Debug\netcoreapp3.1\Dominio.pdb
+D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.csproj.AssemblyReference.cache
+D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.AssemblyInfoInputs.cache
+D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.AssemblyInfo.cs
+D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.csproj.CoreCompileInputs.cache
+D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.csproj.CopyComplete
+D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.dll
+D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.pdb
+D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.genruntimeconfig.cache

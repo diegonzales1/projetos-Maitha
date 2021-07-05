@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iK1Y3TiVWZ1wZ4ELuGRVFYlKhhfc9im4WDwCk/B7a/VZVolViXAfcL840A9pu7s3or38fVUDcin29W9sVtjRWg==",
+  "dgSpecHash": "O2oEcpXBk426u/pSoryB39itOrzW/fMQyOG0rkbkTdax3A/CW1R+fYh8nbDRaYPcShCLeP7rimcff6RItNmMdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diego\\Desktop\\Nova pasta\\Maitha\\Banco\\BancoApi\\BancoApi.csproj",
+  "projectFilePath": "D:\\Programação\\Repositórios\\projetos-Maitha\\Modulo-tres\\Banco\\BancoApi\\BancoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diego\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Diego\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Paow6UcsLLdtEc6LkjtKqUQQ02q1Vl9fwtt7tPNcmH5BRmOmAOx+/8OaNZTC+h40P8ikFACjORbhauZ0CF2gOw==",
+  "dgSpecHash": "UPx8UTnmaAreWORgMJcpTCsFB3isKxcM8fUVCb309Ku41GF2AIY+GsnC7fH8MyV4K/gqr8SKQ4GMBwJJoR0uAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diego\\Desktop\\Nova pasta\\Maitha\\Banco\\Dominio\\Dominio.csproj",
+  "projectFilePath": "D:\\Programação\\Repositórios\\projetos-Maitha\\Modulo-tres\\Banco\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diego\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.7\\microsoft.entityframeworkcore.5.0.7.nupkg.sha512",
     "C:\\Users\\Diego\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.7\\microsoft.entityframeworkcore.abstractions.5.0.7.nupkg.sha512",
