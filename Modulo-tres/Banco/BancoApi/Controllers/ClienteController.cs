@@ -59,14 +59,34 @@ namespace BancoApi.Controllers
 
         // PUT api/<ClienteController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public async Task<IActionResult> Put(int id, [FromBody] Cliente cliente)
         {
+            try
+            {
+                if (id != cliente.Id) { return BadRequest($"O id {id} é diferente do id do cliente"); }
+                _clienteRepository.Atualizar(cliente);
+                return Ok(cliente);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.ToString());
+            }
         }
 
         // DELETE api/<ClienteController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public async Task<IActionResult> Delete(int id,[FromBody] Cliente cliente)
         {
+            try
+            {
+                if(id != cliente.Id) { throw new Exception ("Id não encontrado!!"); }
+                _clienteRepository.Remover(cliente);
+                return Ok("Excluído com sucesso!!");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.ToString());
+            }
         }
     }
 
