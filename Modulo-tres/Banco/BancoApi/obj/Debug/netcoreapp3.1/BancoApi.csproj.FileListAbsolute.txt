@@ -132,3 +132,8 @@ D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\De
 D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.dll
 D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.pdb
 D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.genruntimeconfig.cache
+D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Programação\Repositórios\projetos-Maitha\Modulo-tres\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.MvcApplicationPartsAssemblyInfo.cs

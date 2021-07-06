@@ -23,7 +23,7 @@ namespace BancoApi.Controllers
         // GET: api/<ClienteController>
         // GET api/<ClienteController>/5
         [HttpGet("{id?}")]
-        public async Task<IActionResult> Get(int id)
+        public async Task<IActionResult> Get(int id = 0)
         {
             try
             {
@@ -79,7 +79,7 @@ namespace BancoApi.Controllers
         {
             try
             {
-                if(id != cliente.Id) { throw new Exception ("Id não encontrado!!"); }
+                if(id != cliente.Id) { return NotFound("Id não encontrado!!"); }
                 _clienteRepository.Remover(cliente);
                 return Ok("Excluído com sucesso!!");
             }
