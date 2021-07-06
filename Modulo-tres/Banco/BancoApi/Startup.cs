@@ -31,7 +31,8 @@ namespace BancoApi
                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
             services.AddScoped<IClienteRepositorio, ClienteRepositorio>();
-
+            services.AddScoped<IAgenciaRepositorio, AgenciaRepositorio>();
+            services.AddScoped<IContaRepositorio, ContaRepositorio>();
             //Swagger
             services.AddSwaggerGen(c =>
             {
