@@ -33,6 +33,8 @@ namespace BancoApi
             services.AddScoped<IClienteRepositorio, ClienteRepositorio>();
             services.AddScoped<IAgenciaRepositorio, AgenciaRepositorio>();
             services.AddScoped<IContaRepositorio, ContaRepositorio>();
+            services.AddScoped<IContatoRepositorio, ContatoRepositorio>();
+
             //Swagger
             services.AddSwaggerGen(c =>
             {

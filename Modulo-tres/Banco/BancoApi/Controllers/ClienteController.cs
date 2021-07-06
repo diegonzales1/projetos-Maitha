@@ -1,4 +1,5 @@
-﻿using Dominio.Entidades;
+﻿using BancoApi.Request;
+using Dominio.Entidades;
 using Dominio.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -28,13 +29,9 @@ namespace BancoApi.Controllers
             try
             {
                 if (id != 0)
-                {
                     return Ok(_clienteRepository.ObterPorId(id));
-                }
-                else
-                {
-                    return Ok(_clienteRepository.ObterTodos());
-                }
+
+                return Ok(_clienteRepository.ObterTodos());
             }
             catch (Exception ex)
             {
@@ -63,7 +60,9 @@ namespace BancoApi.Controllers
         {
             try
             {
-                if (id != cliente.Id) { return BadRequest($"O id {id} é diferente do id do cliente"); }
+                if (id != cliente.Id) 
+                    return BadRequest($"O id {id} é diferente do id do cliente"); 
+
                 _clienteRepository.Atualizar(cliente);
                 return Ok(cliente);
             }
@@ -75,11 +74,13 @@ namespace BancoApi.Controllers
 
         // DELETE api/<ClienteController>/5
         [HttpDelete("{id}")]
-        public async Task<IActionResult> Delete(int id,[FromBody] Cliente cliente)
+        public async Task<IActionResult> Delete(int id, [FromBody] Cliente cliente)
         {
             try
             {
-                if(id != cliente.Id) { return NotFound("Id não encontrado!!"); }
+                if (id != cliente.Id) 
+                    return NotFound("Id não encontrado!!"); 
+
                 _clienteRepository.Remover(cliente);
                 return Ok("Excluído com sucesso!!");
             }
@@ -87,6 +88,12 @@ namespace BancoApi.Controllers
             {
                 return BadRequest(ex.ToString());
             }
+        }
+
+        [HttpPost("ClientePorDocumento")]
+        public async Task<IActionResult> ClientePorDocumento(ClienteRequest cliente)
+        {
+            return Ok(new Cliente());
         }
     }
 

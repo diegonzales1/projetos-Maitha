@@ -29,7 +29,8 @@ namespace BancoApi.Controllers
         {
             try
             {
-                if (id != 0) { return Ok(_contaRepositorio.ObterPorId(id)); }
+                if (id != 0) 
+                    return Ok(_contaRepositorio.ObterPorId(id)); 
 
                 return Ok(_contaRepositorio.ObterTodos());
             }
@@ -60,7 +61,9 @@ namespace BancoApi.Controllers
         {
             try
             {
-                if(id != conta.Id) { throw new Exception("Id não encontrado!!"); }
+                if(id != conta.Id) 
+                    throw new Exception("Id não encontrado!!"); 
+
                 _contaRepositorio.Atualizar(conta);
                 return Ok(conta);
             }
@@ -76,7 +79,9 @@ namespace BancoApi.Controllers
         {
             try
             {
-                if(id != conta.Id) { return NotFound("Id não encontrado!"); }
+                if(id != conta.Id) 
+                    return NotFound("Id não encontrado!"); 
+
                 _contaRepositorio.Remover(conta);
                 return Ok("Excluído com sucesso!!");
             }

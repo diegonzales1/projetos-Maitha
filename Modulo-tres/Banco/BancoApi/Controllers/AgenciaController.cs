@@ -29,9 +29,7 @@ namespace BancoApi.Controllers
             try
             {
                 if(id != 0)
-                {
                     return Ok(_agenciaRepositorio.ObterPorId(id));
-                }
 
                 return Ok(_agenciaRepositorio.ObterTodos());
             }
@@ -62,7 +60,9 @@ namespace BancoApi.Controllers
         {
             try
             {
-                if(id != agencia.Id) { throw new Exception("Id diferente do id do cliente"); }
+                if(id != agencia.Id) 
+                    throw new Exception("Id diferente do id do cliente"); 
+
                 _agenciaRepositorio.Atualizar(agencia);
                 return Ok(agencia);
             }
@@ -78,7 +78,9 @@ namespace BancoApi.Controllers
         {
             try
             {
-                if(id != agencia.Id) { return NotFound("Id não encontrado!!"); }
+                if(id != agencia.Id) 
+                    return NotFound("Id não encontrado!!"); 
+
                 _agenciaRepositorio.Remover(agencia);
                 return Ok("Excluído com sucesso!!");
             }
