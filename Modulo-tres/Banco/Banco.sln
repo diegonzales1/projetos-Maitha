@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BancoApi", "BancoApi\BancoA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dominio", "Dominio\Dominio.csproj", "{CE461A48-0C4A-4DFA-8DB8-39E7AF92B04D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositorio", "Repositorio\Repositorio.csproj", "{64B87D0F-4861-42CB-BAD3-05DAF78AF675}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repositorio", "Repositorio\Repositorio.csproj", "{64B87D0F-4861-42CB-BAD3-05DAF78AF675}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

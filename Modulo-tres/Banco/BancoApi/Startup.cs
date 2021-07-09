@@ -15,10 +15,12 @@ namespace BancoApi
     public class Startup
     {
         public IConfiguration Configuration { get; private set; }
+   
 
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            
         }
 
 
@@ -26,6 +28,10 @@ namespace BancoApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+
+            //Libera acesso do Cors
+            services.AddCors();
+
 
             services.AddDbContext<BancoContexto>(options =>
                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
@@ -55,6 +61,9 @@ namespace BancoApi
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            //Libera acesso do Cors
+            app.UseCors();
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();

@@ -3,6 +3,7 @@ using Dominio.Entidades;
 using Dominio.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using System;
+using System.Linq;
 using System.Threading.Tasks;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -14,10 +15,12 @@ namespace BancoApi.Controllers
     public class ClienteController : ControllerBase
     {
         private readonly IClienteRepositorio _clienteRepository;
+        private readonly IContatoRepositorio _contatoRepositorio;
 
-        public ClienteController(IClienteRepositorio cliente)
+        public ClienteController(IClienteRepositorio cliente, IContatoRepositorio contato)
         {
             _clienteRepository = cliente;
+            _contatoRepositorio = contato;
         }
 
         // {id?} Verifica se a busca é pelo ID ou NÂO... Get e Get por ID
@@ -60,7 +63,7 @@ namespace BancoApi.Controllers
         {
             try
             {
-                if (id != cliente.Id) 
+                if (id != cliente.Id)  
                     return BadRequest($"O id {id} é diferente do id do cliente"); 
 
                 _clienteRepository.Atualizar(cliente);
@@ -95,9 +98,55 @@ namespace BancoApi.Controllers
         {
             return Ok(new Cliente());
         }
+
+        [HttpGet("Contato/ClienteId/{id}")]
+        public async Task<IActionResult> GetContatoClienteId(int id)
+        {
+            try
+            {
+                if (id == 0)
+                    return NotFound("Id do cliente não informado!");
+                else
+                    return Ok(_contatoRepositorio.ObterTodos().Where(contato => contato.ClienteId == id).FirstOrDefault());
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.ToString());
+            }
+        }
+
+
+        [HttpGet("Contato/{id?}")]
+        public async Task<IActionResult> GetContato(int id = 0)
+        {
+            try
+            {
+                if (id != 0)
+                    return Ok(_contatoRepositorio.ObterPorId(id));
+
+                return Ok(_contatoRepositorio.ObterTodos());
+            }
+            catch (Exception ex)
+            {
+
+                return BadRequest(ex.ToString());
+            }
+        }
+
+        [HttpPost("Contato")]
+        public async Task<IActionResult> NovoContato([FromBody] Contato contato)
+        {
+            try
+            {
+                _contatoRepositorio.Adicionar(contato);
+                return Ok(contato);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.ToString());
+            }
+        }
     }
 
-    internal interface IClienteRepository
-    {
-    }
+  
 }
